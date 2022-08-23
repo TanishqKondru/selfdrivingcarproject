@@ -61,4 +61,4 @@ A scaled down version of self-driving system using Neural Networks and OpenCV. T
 
 * Self-driving in action: First run *auto_driver.py* to start the server and then run “stream_video.py” and “stream_sensor_data.py” on raspberry pi.
 
-Thanks alot to @hamuchiwa for the inspiration.
+
